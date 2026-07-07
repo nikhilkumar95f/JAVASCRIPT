@@ -44,3 +44,31 @@ console.log(typeof bigNumber);
 console.log(typeof heros);
 console.log(typeof myObj);
 console.log(typeof myFunction);
+
+
+
+//-------------------------memory---------------------
+
+// stack(primitive), Heap (Non-primitive)
+
+let myYoutubename = "nikhildotcom"
+
+let anothername = myYoutubename
+anothername = "chaiaurcode"
+
+console.log(myYoutubename);
+console.log(anothername);
+
+
+let userOne = {
+    email: "user@gamil.com",
+    upi: "user@ybl"
+}
+
+let userTwo = userOne
+
+userTwo.email = "nikhil@gamil.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
+
