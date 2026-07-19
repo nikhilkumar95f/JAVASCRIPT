@@ -1,5 +1,5 @@
 ﻿# JavaScript Learning Repository
-
+  
 This repository contains beginner-friendly JavaScript practice files and examples organized by topic.
 
 
