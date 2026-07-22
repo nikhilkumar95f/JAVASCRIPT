@@ -17,3 +17,4 @@ This repository contains beginner-friendly JavaScript practice files and example
 
 This repo is intended for learning and revising core JavaScript concepts step by step. 
 
+.
